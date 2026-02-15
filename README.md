@@ -90,7 +90,7 @@ The dashboard includes:
 
 ## Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Sales_performance_dashboard.png)
 
 ---
 

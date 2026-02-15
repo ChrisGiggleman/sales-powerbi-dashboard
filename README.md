@@ -1,5 +1,8 @@
 # Sales Performance Dashboard (Power BI)
 
+## Live Dashboard Preview
+Below is a snapshot of the completed Power BI dashboard.
+
 ## Overview
 
 This project demonstrates building an interactive sales analytics dashboard using Power BI.
